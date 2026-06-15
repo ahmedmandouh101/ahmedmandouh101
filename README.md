@@ -30,7 +30,3 @@ Focused on building structured, maintainable backend systems with clear architec
 My repositories reflect how I structure backend applications, design APIs, and handle real-world problems using Laravel and Node.js.
 
 ---
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:0d0d0d&height=90&section=footer" width="100%" />
-</div>
