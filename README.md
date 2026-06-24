@@ -5,7 +5,7 @@
 
 <br/>
 
-<h2 align="center">Backend Developer (Laravel & Node.js)</h2>
+<h2 align="center">Backend Developer</h2>
 
 <p align="center">
 Focused on building structured, maintainable backend systems with clear architecture and reliable performance.
@@ -27,6 +27,7 @@ Focused on building structured, maintainable backend systems with clear architec
 ---
 ## 📂 Projects
 
+<p align="center">
 My repositories reflect how I structure backend applications, design APIs, and handle real-world problems.
-
+</p>
 ---
