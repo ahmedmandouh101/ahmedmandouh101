@@ -27,6 +27,6 @@ Focused on building structured, maintainable backend systems with clear architec
 ---
 ## 📂 Projects
 
-My repositories reflect how I structure backend applications, design APIs, and handle real-world problems using Laravel and Node.js.
+My repositories reflect how I structure backend applications, design APIs, and handle real-world problems.
 
 ---
