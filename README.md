@@ -1,14 +1,7 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:0d0d0d&height=120&section=header&text=Ahmed%20Mandouh&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
-
-<br/>
-
-<h2 align="center">Backend Developer</h2>
+<h1 align="center">Ahmed Mandouh</h1>
 
 <p align="center">
-Focused on building structured, maintainable backend systems with clear architecture and reliable performance.
+Backend Developer focused on building scalable, maintainable systems.
 </p>
 
 <p align="center">
@@ -18,16 +11,36 @@ Focused on building structured, maintainable backend systems with clear architec
 
 ---
 
-## ⚙️ Stack
+### About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,mysql,mongodb,redis,docker,git,linux&perline=10" />
-</p>
+I build backend systems with a focus on clean architecture, performance, and real-world scalability.
+
+I care about:
+
+* Writing maintainable and readable code
+* Designing clear APIs
+* Solving real product problems, not just coding features
 
 ---
-## 📂 Projects
 
-<p align="center">
-My repositories reflect how I structure backend applications, design APIs, and handle real-world problems.
-</p>
+### Stack
+
+* PHP / Laravel / Nodejs
+* REST APIs
+* MySQL / MongoDB
+* Redis
+* Docker
+* Git / Linux
+
 ---
+
+### Projects
+
+Most of my work reflects how I structure backend systems and handle real-world scenarios.
+
+Check the repositories to see:
+
+* API design decisions
+* Code structure
+* Problem-solving approach
+
