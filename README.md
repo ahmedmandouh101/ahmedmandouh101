@@ -25,12 +25,13 @@ I care about:
 
 ### Stack
 
-* PHP / Laravel / Nodejs
+* C++ , java , python , JS ,TS 
+* PHP  (Laravel) / Nodejs (Express.js)
 * REST APIs
-* MySQL / MongoDB
-* Redis
-* Docker
+* MySQL - PostgreSQL / MongoDB
 * Git / Linux
+* Redis
+* Docker -podman
 
 ---
 
