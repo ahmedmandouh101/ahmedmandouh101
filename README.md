@@ -31,7 +31,7 @@ I care about:
 * MySQL - PostgreSQL / MongoDB
 * Git / Linux
 * Redis
-* Docker -podman
+* Docker - Podman
 
 ---
 
