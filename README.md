@@ -1,81 +1,57 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=220&section=header&text=AHMED%20MANDOUH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20DEVELOPER&descSize=16&descAlignY=59&animation=fadeIn" alt="Ahmed Mandouh — Backend Developer" />
+# Ahmed Mandouh
 
-### Clean APIs. Reliable systems. Thoughtful engineering.
+**BACKEND DEVELOPER**
 
-Backend Developer at **Runsoft** · Based in **Egypt**
+PHP · Laravel · Node.js
 
-I turn complex business workflows into maintainable backend systems.  
-Working with **Laravel** and **Node.js**, from API design to production debugging.
+Building reliable APIs and maintainable backend systems.
 
-<br />
+[Portfolio ↗](https://ahmedmandouh101.github.io/me/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/ahmedmandouh101/) &nbsp; · &nbsp; [Email ↗](mailto:ahmedmandouh101@gmail.com)
 
-<a href="https://ahmedmandouh101.github.io/me/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ahmedmandouh101/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:ahmedmandouh101@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br /><br />
+</div>
 
 ---
 
-<br />
+### Profile
 
-### THE STACK
+Backend developer at **Runsoft**, based in Egypt, with hands-on experience building and maintaining production APIs.
 
-<br />
+I work on booking lifecycles, availability, payments, and authentication—translating business requirements into clear, dependable backend workflows.
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,ts,js&theme=dark&perline=6" alt="PHP, Laravel, Node.js, Express, TypeScript, JavaScript" />
+I care about readable code, sound API design, and keeping systems maintainable as requirements evolve.
 
-<br /><br />
+### Technical Stack
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux&theme=dark&perline=6" alt="MySQL, PostgreSQL, MongoDB, Redis, Docker, Linux" />
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | PHP, Laravel, Node.js, Express.js |
+| **Languages** | JavaScript, TypeScript, C++, Java, Python |
+| **Databases & Caching** | MySQL, PostgreSQL, MongoDB, Redis |
+| **APIs & Security** | REST APIs, API versioning, JWT, Sanctum, role-based authorization |
+| **Architecture** | OOP, SOLID, service layers, dependency injection |
+| **Testing & Tooling** | PHPUnit, Postman, Git |
+| **Environment** | Linux, Docker, Podman |
 
-<br /><br />
+### Engineering Focus
 
-<sub>ALSO WORKING WITH</sub>
+- **Clear interfaces** — consistent API responses, validation, and error handling.
+- **Data integrity** — transactions and safeguards for booking and payment workflows.
+- **Maintainable structure** — focused services and explicit responsibilities.
+- **Production reliability** — debugging, testing, and compatibility across API versions.
 
-<br /><br />
+### Education
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,git&theme=dark&perline=4" alt="C++, Java, Python, Git" />
-
-<br /><br /><br />
+**B.Sc. in Computer Science**  
+Faculty of Computers and Information, Menofia University · 2020–2024
 
 ---
 
-<br />
+<div align="center">
 
-### HOW I THINK ABOUT BACKEND
+**Let's build something useful.**
 
-**Clear API contracts** &nbsp; / &nbsp; **Maintainable architecture**  
-**Data integrity** &nbsp; / &nbsp; **Production reliability**
-
-<br />
-
-Authentication & Authorization · API Versioning · Database Transactions  
-Service Layers · Testing · Performance · Debugging
-
-<br /><br />
-
-> The endpoint is only the beginning.  
-> The real work is making the system behind it dependable.
-
-<br /><br />
-
-**Have something worth building?**
-
-[Let’s connect ↗](https://www.linkedin.com/in/ahmedmandouh101/)
-
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=110&section=footer" alt="" />
+[ahmedmandouh101@gmail.com](mailto:ahmedmandouh101@gmail.com)
 
 </div>
