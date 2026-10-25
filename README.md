@@ -1,47 +1,81 @@
-<h1 align="center">Ahmed Mandouh</h1>
+<div align="center">
 
-<p align="center">
-Backend Developer focused on building scalable, maintainable systems.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=220&section=header&text=AHMED%20MANDOUH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20DEVELOPER&descSize=16&descAlignY=59&animation=fadeIn" alt="Ahmed Mandouh — Backend Developer" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedmandouh101/">LinkedIn</a> •
-  <a href="https://ahmedmandouh101.github.io/me/">Portfolio</a>
-</p>
+### Clean APIs. Reliable systems. Thoughtful engineering.
 
----
+Backend Developer at **Runsoft** · Based in **Egypt**
 
-### About
+I turn complex business workflows into maintainable backend systems.  
+Working with **Laravel** and **Node.js**, from API design to production debugging.
 
-I build backend systems with a focus on clean architecture, performance, and real-world scalability.
+<br />
 
-I care about:
+<a href="https://ahmedmandouh101.github.io/me/">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ahmedmandouh101/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:ahmedmandouh101@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-* Writing maintainable and readable code
-* Designing clear APIs
-* Solving real product problems, not just coding features
-
----
-
-### Stack
-
-* C++ , java , python , JS ,TS 
-* PHP  (Laravel) / Nodejs (Express.js)
-* REST APIs
-* MySQL - PostgreSQL / MongoDB
-* Git / Linux
-* Redis
-* Docker - Podman
+<br /><br />
 
 ---
 
-### Projects
+<br />
 
-Most of my work reflects how I structure backend systems and handle real-world scenarios.
+### THE STACK
 
-Check the repositories to see:
+<br />
 
-* API design decisions
-* Code structure
-* Problem-solving approach
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,ts,js&theme=dark&perline=6" alt="PHP, Laravel, Node.js, Express, TypeScript, JavaScript" />
 
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux&theme=dark&perline=6" alt="MySQL, PostgreSQL, MongoDB, Redis, Docker, Linux" />
+
+<br /><br />
+
+<sub>ALSO WORKING WITH</sub>
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,git&theme=dark&perline=4" alt="C++, Java, Python, Git" />
+
+<br /><br /><br />
+
+---
+
+<br />
+
+### HOW I THINK ABOUT BACKEND
+
+**Clear API contracts** &nbsp; / &nbsp; **Maintainable architecture**  
+**Data integrity** &nbsp; / &nbsp; **Production reliability**
+
+<br />
+
+Authentication & Authorization · API Versioning · Database Transactions  
+Service Layers · Testing · Performance · Debugging
+
+<br /><br />
+
+> The endpoint is only the beginning.  
+> The real work is making the system behind it dependable.
+
+<br /><br />
+
+**Have something worth building?**
+
+[Let’s connect ↗](https://www.linkedin.com/in/ahmedmandouh101/)
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=110&section=footer" alt="" />
+
+</div>
